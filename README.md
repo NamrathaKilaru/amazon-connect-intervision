@@ -1,4 +1,4 @@
-# amazon-connect - Buidling a bank contact centeruse case with options of help with the account or schedule an appointment.
+# amazon-connect - Build a bank contact centeruse case with options of help with the account or schedule an appointment.
 
 **Build Contact Center with Amazon Connect**
 

@@ -1,6 +1,4 @@
-# amazon-connect - Build a bank contact center use case with options of help with the account or schedule an appointment.
-
-**Build Contact Center with Amazon Connect**
+# Amazon Connect - Build a bank Interactive contact center use case with options of help with the account or schedule an appointment.
 
 Amazon Connect integrates with other AWS services like AWS Lamda  and Amazon DynamoDB  allow you to create dynamic, personalized experienced for your callers. In this session, you will learn how to create Queues, Routing Profiles and configure Users and integrate AWS Lambda and Amazon DynamoDB services with your contact center.
 
